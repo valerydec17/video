@@ -19,3 +19,6 @@ the output should be as this:
 
 ## Compiling the examples on Ubuntu
 `g++ example.cc -lglut -lGL -o example`
+
+## Running the example on Ubuntu
+`./example`
